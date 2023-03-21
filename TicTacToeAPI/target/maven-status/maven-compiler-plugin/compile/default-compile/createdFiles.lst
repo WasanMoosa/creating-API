@@ -1,0 +1,5 @@
+model\Board.class
+model\Bot.class
+com\ttt\api\TicTacToeAPI\controller\MainController.class
+com\ttt\api\TicTacToeAPI\controller\BotController.class
+com\ttt\api\TicTacToeAPI\TicTacToeApiApplication.class
